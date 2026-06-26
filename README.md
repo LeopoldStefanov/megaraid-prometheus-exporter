@@ -226,7 +226,7 @@ systemctl cat node_exporter | grep textfile
 
 ## Related
 
-- [proxmox-monitoring-stack](https://github.com/YOUR_USERNAME/proxmox-monitoring-stack) — full Proxmox monitoring setup this exporter is part of
+- [proxmox-monitoring-stack](https://github.com/LeopoldStefanov/proxmox-monitoring-stack) — full Proxmox monitoring setup this exporter is part of
 
 ---
 
